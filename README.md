@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-1125
-- 👀 I’m interested in C++ AND Python.
-- 🌱 I’m currently learning c++ and python.
-- 💞️ I’m looking to collaborate on any projects related to c++ and python.
+- 👀 I’m interested in C++,Python, HTML, CSS and Javascript.
+- 🌱 I’m currently learning ReactJS, NodeJS and ExpressJS.
+- 💞️ I’m looking to collaborate on any projects related to Web Development and Machine Learning Models.
 - 📫 You can reach me through my gmail=psathyasaiaditya@gmail.com.
 
 <!---
